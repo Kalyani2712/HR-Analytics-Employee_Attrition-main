@@ -45,7 +45,7 @@ Instructions on how to set up the project environment:
    If you have git command line installed, use the following command:
 
    ```
-  
+ git clone https://github.com/Kalyani2712/HR-Analytics-Employee_Attrition-main.git
    ```
 
 2. **Cd to the folder**
